@@ -1,0 +1,300 @@
+{
+    "code": 200,
+    "message": "success",
+    "result": {
+        "image_angle": 0,
+        "item_list": [
+            {
+                "confidence": 0.989,
+                "key": "BILL TO",
+                "position": [
+                    1174,
+                    151,
+                    1687,
+                    148,
+                    1687,
+                    175,
+                    1174,
+                    175
+                ],
+                "value": "Astec International Ltd.-China Division"
+            },
+            {
+                "confidence": 0.986,
+                "key": "VENDOR",
+                "position": [
+                    60,
+                    404,
+                    573,
+                    402,
+                    573,
+                    429,
+                    60,
+                    430
+                ],
+                "value": "MORRIHAN INTERNATIONAL CORP."
+            },
+            {
+                "confidence": 0.989,
+                "key": "SHIP TO",
+                "position": [
+                    1174,
+                    409,
+                    1481,
+                    405,
+                    1481,
+                    429,
+                    1174,
+                    431
+                ],
+                "value": "Astec International Ltd."
+            },
+            {
+                "confidence": 0.998,
+                "key": "Order Date",
+                "position": [
+                    81,
+                    732,
+                    243,
+                    730,
+                    243,
+                    757,
+                    81,
+                    757
+                ],
+                "value": "08-SEP"
+            },
+            {
+                "confidence": 0.9,
+                "key": "Vendor No.",
+                "position": [],
+                "value": ""
+            },
+            {
+                "confidence": 0.968,
+                "key": "Payment Terms",
+                "position": [
+                    617,
+                    732,
+                    738,
+                    733,
+                    738,
+                    757,
+                    617,
+                    757
+                ],
+                "value": "NET 60"
+            },
+            {
+                "confidence": 0.996,
+                "key": "ITEM1",
+                "position": [
+                    81,
+                    943,
+                    120,
+                    941,
+                    120,
+                    968,
+                    81,
+                    968
+                ],
+                "value": "1-1"
+            },
+            {
+                "confidence": 0.999,
+                "key": "QUANTITY",
+                "position": [
+                    329,
+                    942,
+                    470,
+                    941,
+                    470,
+                    966,
+                    329,
+                    965
+                ],
+                "value": "750.00000"
+            },
+            {
+                "confidence": 0.987,
+                "key": "DESCRIPTION1",
+                "position": [
+                    494,
+                    942,
+                    924,
+                    945,
+                    924,
+                    1087,
+                    494,
+                    1087
+                ],
+                "value": " 191-000023-0000 Rev.:AA  OPTO,LIN,9999mA,150V,8kVrms,100C,HCNR201,OTHER AVAGO TECHNOLOGIES INTERNATION MPN:HCNR201-55 Hazard Class:RX-ND-ND"
+            },
+            {
+                "confidence": 0.971,
+                "key": "UNIT1",
+                "position": [
+                    1174,
+                    944,
+                    1275,
+                    942,
+                    1275,
+                    969,
+                    1174,
+                    968
+                ],
+                "value": "Each"
+            },
+            {
+                "confidence": 0.993,
+                "key": "UNIT PRICE1",
+                "position": [
+                    1422,
+                    944,
+                    1563,
+                    942,
+                    1563,
+                    969,
+                    1422,
+                    968
+                ],
+                "value": "00"
+            },
+            {
+                "confidence": 0.998,
+                "key": "AMOUNT1",
+                "position": [
+                    1834,
+                    940,
+                    1955,
+                    941,
+                    1955,
+                    970,
+                    1834,
+                    968
+                ],
+                "value": "735.00"
+            },
+            {
+                "confidence": 0.9,
+                "key": "DELIVERY DATE1",
+                "position": [],
+                "value": ""
+            },
+            {
+                "confidence": 0.952,
+                "key": "ITEM2",
+                "position": [
+                    60,
+                    1129,
+                    140,
+                    1130,
+                    140,
+                    1161,
+                    60,
+                    1159
+                ],
+                "value": "2-1"
+            },
+            {
+                "confidence": 0.998,
+                "key": "QUANTITY2",
+                "position": [
+                    287,
+                    1131,
+                    470,
+                    1130,
+                    470,
+                    1156,
+                    287,
+                    1157
+                ],
+                "value": "16,500.00000"
+            },
+            {
+                "confidence": 0.99,
+                "key": "DESCRIPTION2",
+                "position": [
+                    494,
+                    1132,
+                    924,
+                    1133,
+                    924,
+                    1276,
+                    494,
+                    1276
+                ],
+                "value": " 191-000023-0000 Rev.:AA  OPTO,LIN,9999mA,150V,8kVrms,100â„ƒC,HCNR201,OTHER AVAGO TECHNOLOGIES INTERNATION MPN:HCNR201-550 N Hazard Class:RX-ND-ND"
+            },
+            {
+                "confidence": 0.976,
+                "key": "UNIT2",
+                "position": [
+                    1174,
+                    1133,
+                    1275,
+                    1130,
+                    1275,
+                    1160,
+                    1174,
+                    1160
+                ],
+                "value": "Each"
+            },
+            {
+                "confidence": 0.9,
+                "key": "UNIT PRICE2",
+                "position": [],
+                "value": ""
+            },
+            {
+                "confidence": 0.997,
+                "key": "AMOUNT2",
+                "position": [
+                    1793,
+                    1131,
+                    1955,
+                    1129,
+                    1955,
+                    1161,
+                    1793,
+                    1161
+                ],
+                "value": "16,170.00"
+            },
+            {
+                "confidence": 0.997,
+                "key": "DELIVERY DATE2",
+                "position": [
+                    2144,
+                    1133,
+                    2327,
+                    1133,
+                    2327,
+                    1165,
+                    2144,
+                    1165
+                ],
+                "value": "-19"
+            },
+            {
+                "confidence": 0.996,
+                "key": "TOTAL",
+                "position": [
+                    1752,
+                    3206,
+                    1955,
+                    3205,
+                    1955,
+                    3238,
+                    1752,
+                    3239
+                ],
+                "value": "16,905.00"
+            }
+        ],
+        "rotated_image_height": 3300,
+        "rotated_image_width": 2550,
+        "type": "ARTESYN 2"
+    }
+}
